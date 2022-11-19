@@ -1,3 +1,3 @@
 # Capstone-Project
 
-It is a Project where we analize CapstoneProject
+It is a Project where we analyse CapstoneProject
